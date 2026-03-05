@@ -1,0 +1,20 @@
+# Arduino / ESP32
+build/
+*.bin
+*.elf
+*.map
+.vscode/
+
+# KiCad / Hardware
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+*-cache.lib
+
+# Onshape / 3D
+*.step.tmp
+*.stl.cache
+
+# OS
+.DS_Store
+Thumbs.db
